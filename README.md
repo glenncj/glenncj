@@ -1,37 +1,22 @@
 # Hi, I'm Chris Glenn
 
-I’m an enterprise AI and platform leader focused on agentic systems, cloud-native architecture, and production-ready AI delivery.
+I've spent 25+ years helping large organizations turn messy technology decisions into systems that actually run. This profile is the other half of that—the things I build and test myself to understand how they work.
 
-Over a 25+ year technology career, I have worked across enterprise architecture, cloud and data platforms, cybersecurity, technical delivery, and solution leadership. I operate at the intersection of executive strategy and engineering execution—turning ambiguous business priorities into practical architectures, delivery models, and scalable technology platforms.
+Right now, that means personal AI agents. I run Hermes Agent locally, test Qwen and DeepSeek through Ollama, and compare them with hosted models from Anthropic, Google, OpenAI, and xAI. The question I keep chasing: Where are local models already good enough, where do the big hosted models still earn their cost, and how do you route between them without building something nobody can maintain?
 
-## Current Focus
+What I'm working on:
 
-- Enterprise AI platforms and agentic systems
-- Multi-agent orchestration and workflow design
-- Retrieval-augmented generation and enterprise knowledge systems
-- AI evaluation, governance, security, and observability
-- Cloud-native engineering and production readiness
-- Technical discovery, rapid prototyping, and solution delivery
+- A personal job-search assistant that gathers roles from multiple sources, evaluates fit, tracks activity, and supports company research and interview preparation
+- Local and hybrid agent setups using Hermes, Ollama, model routing, tools, and background workflows
+- RAG, long-term memory, context management, and personal knowledge systems
+- MCP, A2A, APIs, Telegram bots, and workflow automation
+- Model and provider comparisons across reasoning, coding, cost, latency, and reliability
+- Evals, security, governance, and human-approval patterns for agents that take real actions
 
-## Architecture and Technology
+My enterprise toolkit includes Google Cloud, Vertex AI, Cloud Run, GKE, BigQuery, Kubernetes, Terraform, and GitOps. But I'm increasingly drawn to what can run locally on a small, affordable stack. I care more about understanding tradeoffs than collecting frameworks—the goal is always the simplest architecture that holds up.
 
-**AI and agents:** LLM applications, multi-agent systems, RAG, model evaluation, MCP, A2A, prompt and context engineering
+Expect experiments, reference architectures, and technical notes here. All personal work, deliberately separate from client and employer code.
 
-**Cloud and platforms:** Google Cloud, Vertex AI, Cloud Run, GKE, BigQuery, Pub/Sub, Kubernetes, Terraform, and GitOps
+Off the keyboard: mountain biking, hiking, skiing, and time with my family.
 
-**Enterprise architecture:** APIs, event-driven systems, data integration, identity and access management, security controls, governance, reliability, and observability
-
-**Delivery leadership:** Architecture strategy, solution engineering, production readiness, technical GTM, executive advisory, and multidisciplinary team leadership
-
-## How I Approach Enterprise AI
-
-- Start with the business outcome and operating model—not the model alone.
-- Design evaluation, security, governance, and human accountability into the architecture.
-- Separate deterministic workflows from probabilistic AI behavior.
-- Build reusable platform capabilities rather than isolated demonstrations.
-- Connect executive priorities with practical engineering and delivery decisions.
-
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/chrisglenninnovates/)
-- Atlanta, Georgia
+[Connect with me on LinkedIn](https://www.linkedin.com/in/chrisglenninnovates/)
